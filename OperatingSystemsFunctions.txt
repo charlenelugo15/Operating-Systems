@@ -1,1 +1,1 @@
-
+One function of an operating system is file management. File management is keeping the files where it should be, and keeps track of every file you add or delete. It also keeps track if you have a file opened or closed so you don't make a mistake by deleting an open file on your computer. 
